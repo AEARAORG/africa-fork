@@ -4,21 +4,16 @@
 
 <h1 align="center">
   <a href="https://getleon.ai"><img width="96" src="https://getleon.ai/img/logo.svg" alt="Leon"></a><br>
-  Leon
+  Leon-Africa Fork
 </h1>
 
-_<p align="center">Your open-source personal assistant.</p>_
+_<p align="center">Your open-source personal assistant. Africa flavored.</p>_
 
 <p align="center">
   <a href="https://github.com/leon-ai/leon/blob/develop/LICENSE.md"><img src="https://img.shields.io/badge/license-MIT-blue.svg?label=License&style=flat" /></a>
   <a href="https://github.com/leon-ai/leon/blob/develop/.github/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" /></a>
   <br>
-  <a href="https://github.com/leon-ai/leon/actions/workflows/build.yml"><img src="https://github.com/leon-ai/leon/actions/workflows/build.yml/badge.svg?branch=develop" /></a>
-  <a href="https://github.com/leon-ai/leon/actions/workflows/tests.yml"><img src="https://github.com/leon-ai/leon/actions/workflows/tests.yml/badge.svg?branch=develop" /></a>
-  <a href="https://github.com/leon-ai/leon/actions/workflows/lint.yml"><img src="https://github.com/leon-ai/leon/actions/workflows/lint.yml/badge.svg?branch=develop" /></a>
-  <br>
-  <a href="https://discord.gg/MNQqqKg"><img src="https://svgshare.com/i/V09.svg"/></a>
-</p>
+ </p>
 
 <p align="center">
   <a href="https://getleon.ai">Website</a> ::
@@ -69,15 +64,13 @@ Until then, any financial support by [sponsoring Leon](http://sponsor.getleon.ai
 
 ## Latest Release
 
-Check out the [latest release blog post](https://blog.getleon.ai/binaries-and-typescript-rewrite-1-0-0-beta-8/).
 
-<a href="https://blog.getleon.ai/binaries-and-typescript-rewrite-1-0-0-beta-8/"><img width="400" src="https://blog.getleon.ai/static/a0d1cbafd1968e7531dc17e229f8cc61/aa440/beta-8.png" /></a>
 
 ---
 
 ## 👋 Introduction
 
-**Leon** is an **open-source personal assistant** who can live **on your server**.
+**Leon-Africa Fork** is an **open-source personal assistant** who can live **on your server**.
 
 He **does stuff** when you **ask him to**.
 
@@ -132,7 +125,7 @@ Gitpod will automatically set up an environment and run an instance for you.
 To install these prerequisites, you can follow the [How To section](https://docs.getleon.ai/how-to/) of the documentation.
 
 ### Installation
-
+This is for Leon Im not sure how to start our fork yet.
 ```sh
 # Install the Leon CLI
 npm install --global @leon-ai/cli
@@ -159,13 +152,9 @@ leon start
 
 For full documentation, visit [docs.getleon.ai](https://docs.getleon.ai).
 
-## 📺 Video
-
-[Watch a demo](https://www.youtube.com/watch?v=p7GRGiicO1c).
-
 ## 🧭 Roadmap
 
-To know what is going on, follow [roadmap.getleon.ai](http://roadmap.getleon.ai).
+To know what is going on, not there yet.
 
 ## ❤️ Contributing
 
